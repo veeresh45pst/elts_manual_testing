@@ -27,25 +27,14 @@ How to Use
 
 1. Download the File:  
    - Clone this repository or download the file directly.  
-     ```bash
-     git clone 
-     ```  
+     https://github.com/veeresh45pst/elts_manual_testing/tree/main 
    - Open `Simplified_ELTS_Test_Cases.xlsx` using Microsoft Excel, Google Sheets, or any compatible software.  
 
-2. **Review Test Cases**:  
+2. Review Test Cases:  
    - Navigate through the file to explore documented test cases.  
 
-3. **Update or Add Test Cases**:  
+3. Update or Add Test Cases:  
    - Insert new test cases as required, following the existing structure.  
 
-4. **Track Test Execution**:  
+4. Track Test Execution:  
    - Update the "Actual Results" and "Status" columns during test execution.  
-
-## Contribution  
-
-Contributions are welcome! Please follow the steps below:  
-
-1. Fork the repository.  
-2. Create a new branch.  
-   ```bash
-   git checkout -b feature-name
