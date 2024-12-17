@@ -15,7 +15,6 @@ Key Features
 - Test Case Details: Each test case is documented with the following attributes:  
   - Test Case ID  
   - Description  
-  - Preconditions  
   - Steps to Execute  
   - Expected Results  
   - Actual Results  
